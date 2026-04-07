@@ -1,0 +1,36 @@
+# cmux-midnight — Ghostty theme matching Cursor IDE dark midnight
+#
+# Based on ydkulks/cursor-dark.nvim midnight variant
+#
+# Installation:
+#   1. Copy to ~/.config/ghostty/themes/
+#   2. Set: theme = cmux-midnight
+#   3. Restart Ghostty
+
+# Core colors
+background = #1e2127
+foreground = #ebeef4
+cursor-color = #85a4c3
+cursor-text = #1e2127
+selection-background = #ebeef4
+selection-foreground = #1e2127
+
+# ANSI Normal (0-7)
+palette = 0=#30353f
+palette = 1=#c06771
+palette = 2=#a6bf91
+palette = 3=#eacc90
+palette = 4=#85a4c3
+palette = 5=#82819f
+palette = 6=#8cc1d1
+palette = 7=#e4e8f0
+
+# ANSI Bright (8-15)
+palette = 8=#535d71
+palette = 9=#c06771
+palette = 10=#a6bf91
+palette = 11=#eacc90
+palette = 12=#85a4c3
+palette = 13=#b692b0
+palette = 14=#93bdbd
+palette = 15=#ebeef4

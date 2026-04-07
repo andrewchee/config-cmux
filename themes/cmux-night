@@ -1,0 +1,36 @@
+# cmux-night — Ghostty theme matching Cursor IDE dark
+#
+# Based on ydkulks/cursor-dark.nvim + Cursor IDE terminal colors
+#
+# Installation:
+#   1. Copy to ~/.config/ghostty/themes/
+#   2. Set: theme = cmux-night (or theme = light:cmux-light,dark:cmux-night)
+#   3. Restart Ghostty
+
+# Core colors
+background = #1a1a1a
+foreground = #d8dee9
+cursor-color = #aa9bf5
+cursor-text = #1a1a1a
+selection-background = #d8dee9
+selection-foreground = #1a1a1a
+
+# ANSI Normal (0-7)
+palette = 0=#505050
+palette = 1=#bf616a
+palette = 2=#a3be8c
+palette = 3=#efb080
+palette = 4=#85c1fc
+palette = 5=#aa9bf5
+palette = 6=#88c0d0
+palette = 7=#d8dee9
+
+# ANSI Bright (8-15)
+palette = 8=#505050
+palette = 9=#bf616a
+palette = 10=#a3be8c
+palette = 11=#ebc88d
+palette = 12=#85c1fc
+palette = 13=#c582bf
+palette = 14=#83d6c5
+palette = 15=#d8dee9

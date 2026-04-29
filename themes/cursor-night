@@ -1,0 +1,39 @@
+# Cursor Night — A Ghostty theme inspired by Cursor IDE's visual style
+#
+# Warm, earthy, sophisticated, and minimalist — dark companion to cursor-light.
+#
+# Installation:
+#   1. Copy this file to ~/.config/ghostty/themes/
+#   2. In ~/.config/ghostty/config, set:
+#        theme = cursor-night
+#      Or pair with cursor-light for automatic light/dark switching:
+#        theme = light:cursor-light,dark:cursor-night
+#   3. Restart Ghostty
+
+# Core colors
+background = #1e1d19
+foreground = #d5d3c8
+cursor-color = #d5d3c8
+cursor-text = #1e1d19
+selection-background = #3d3b33
+selection-foreground = #d5d3c8
+
+# ANSI Normal (0-7)
+palette = 0=#45443c
+palette = 1=#c87a6f
+palette = 2=#7fa872
+palette = 3=#b89f58
+palette = 4=#7a9fca
+palette = 5=#a988b8
+palette = 6=#6daa99
+palette = 7=#a6a49a
+
+# ANSI Bright (8-15)
+palette = 8=#88877f
+palette = 9=#d49289
+palette = 10=#93ba88
+palette = 11=#c8b16a
+palette = 12=#90b2d6
+palette = 13=#b99cc8
+palette = 14=#83baaa
+palette = 15=#c8c6bf

@@ -1,6 +1,6 @@
 # config-cmux
 
-[Ghostty](https://ghostty.org/) terminal themes designed to pair with [Cursor](https://cursor.com/) IDE color schemes.
+[Ghostty](https://ghostty.org/) terminal themes designed to pair with [Cursor](https://cursor.com/) IDE color schemes, built for use with [cmux](https://github.com/manaflow-ai/cmux).
 
 Some dark variants are based on [ydkulks/cursor-dark.nvim](https://github.com/ydkulks/cursor-dark.nvim).
 
